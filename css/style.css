@@ -49,10 +49,10 @@ color:#11999E;
   right:300px;
   top:50px;
 }
-.mobile .bottom-cloud{
+.mobile-bottom-cloud{
   display:none;
 }
-.desktop .bottom-cloud{
+.desktop-bottom-cloud{
   position: absolute;
   bottom:300px;
   left:300px;
@@ -95,12 +95,12 @@ button{
 /***Style sheet for mobile***/
 @media screen and (max-width:750px){
 
-    .mobile .bottom-cloud{
+    .mobile-bottom-cloud{
        position: absolute;
        bottom:350px;
        left:2000px;
      }
-     .desktop .bottom-cloud{
+     .desktop-bottom-cloud{
        display:none;
      }
 }
