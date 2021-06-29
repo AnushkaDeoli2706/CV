@@ -87,7 +87,7 @@ button{
  padding:5px;
   }
 body .mobile{
-  visibility:hidden;
+ display:none;
 }
 
 
@@ -103,7 +103,7 @@ body .mobile{
      display:block;
    }
      .top-container{
-       background-color:#E8F6EF;
+       background-color:blue;
        position:relative;
        padding-top:97px;
      }
