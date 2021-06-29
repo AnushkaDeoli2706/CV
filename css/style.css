@@ -98,9 +98,7 @@ button{
 @media screen and (max-width:750px){
 
     .mobile-bottom-cloud{
-       position: absolute;
-       bottom:350px;
-       left:2px;
+     background-color:blue;
      }
      .desktop-bottom-cloud{
        display:none;
