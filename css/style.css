@@ -87,7 +87,7 @@ button{
  padding:5px;
   }
 body .mobile{
-  display:none;
+  visibility:hidden;
 }
 
 
