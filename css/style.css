@@ -95,12 +95,14 @@ button{
 
 
 /***Style sheet for mobile***/
-@media screen and (max-width:750px){
+@media only screen and (max-width:750px){
 
     .mobile-bottom-cloud{
      background-color:blue;
      }
+
      .desktop-bottom-cloud{
        display:none;
-     }
+     } 
+
 }
