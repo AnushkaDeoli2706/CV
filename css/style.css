@@ -49,13 +49,15 @@ color:#11999E;
   right:300px;
   top:50px;
 }
-.mobile-bottom-cloud{
-  display:none;
-}
+
 .desktop-bottom-cloud{
   position: absolute;
   bottom:300px;
   left:300px;
+}
+
+.mobile-bottom-cloud{
+  display:none;
 }
 .bottom-container{
 
@@ -98,7 +100,7 @@ button{
     .mobile-bottom-cloud{
        position: absolute;
        bottom:350px;
-       left:2000px;
+       left:2px;
      }
      .desktop-bottom-cloud{
        display:none;
