@@ -52,7 +52,7 @@ color:#11999E;
 .mobile .bottom-cloud{
   display:none;
 }
-.desktop .botton-cloud{
+.desktop .bottom-cloud{
   position: absolute;
   bottom:300px;
   left:300px;
@@ -95,7 +95,7 @@ button{
 /***Style sheet for mobile***/
 @media screen and (max-width:750px){
 
-    .mobile .botton-cloud{
+    .mobile .bottom-cloud{
        position: absolute;
        bottom:350px;
        left:2000px;
