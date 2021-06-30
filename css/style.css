@@ -245,7 +245,7 @@ button{
     position: relative;
     background-color:#66BFBF;
     top:90px;
-    padding-bottom:45px;
+    padding-bottom: 45px;
       }
       
   }
@@ -254,6 +254,11 @@ button{
       width: 800px;
       top: 550px;
     }
+  }
+
+  .contact-me{
+    margin-right:390px;
+    top:10px;
   }
   @media(max-width:500px){
   .contact-me{
