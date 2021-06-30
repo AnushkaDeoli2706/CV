@@ -262,6 +262,21 @@ button{
   }
 
   @media(max-width:500px){
+  .contact-me-h2{
+    position: relative;
+    bottom: 550px;
+    left: 40px;
+  }
+  }
+  @media(max-width:500px){
+    .contact-me-button{
+      position: relative;
+    bottom: 550px;
+    left: 40px;
+    }
+    }
+
+  @media(max-width:500px){
   .contact-me{
     margin-right:0px;
     position: relative;
