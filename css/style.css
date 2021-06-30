@@ -57,10 +57,9 @@ color:#11999E;
 }
 
 @media only screen and (max-width:500px) {
-  .bottom-cloud{
+  body{
     background-color: blue;
   }
-
 }
 
 .bottom-container{
