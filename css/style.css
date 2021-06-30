@@ -5,6 +5,14 @@
   padding-top:97px;
 
 }
+@media (max-width:500px) {
+  .top-container{
+    background-color:#E8F6EF;
+    position:relative;
+    padding-top:97px;
+    width:100px;
+  }
+}
 body{
   margin:0;
   text-align:center;
@@ -55,6 +63,8 @@ color:#11999E;
   bottom:300px;
   left:300px;
 }
+
+
 .bottom-tag{
    position:relative;
    right:180px;
@@ -69,12 +79,6 @@ background-color:#66BFBF;
 position:relative;
 top:30px;
 padding-bottom:10px;
-}
-
-@media (max-width:500px) {
-  .bottom-container{
-  background-color:blue;
-  }
 }
 
 
