@@ -96,7 +96,11 @@ button{
 
 /***Style sheet for mobile***/
 @media only screen and (max-width: 600px) {
-  body {
-    background-color:blue;
+  .mobile-bottom-cloud{
+  
+  }
+
+  .desktop-bottom-cloud{
+    display:none;
   }
 }
