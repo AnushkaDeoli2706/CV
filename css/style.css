@@ -55,7 +55,13 @@ color:#11999E;
   bottom:300px;
   left:300px;
 }
-
+ .bottom-tag{
+   position:relative;
+   right:180px;
+ }
+ .end{
+   color:white;
+ }
 
 .bottom-container{
 background-color:#66BFBF;
