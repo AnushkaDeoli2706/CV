@@ -74,7 +74,7 @@ color:#11999E;
 .bottom-tag{
    position:relative;
    right:180px;
-   top:10px;
+   top:30px;
  }
 
  @media(max-width:500px) {
@@ -245,7 +245,7 @@ button{
     position: relative;
     background-color:#66BFBF;
     top:90px;
-    padding-bottom:10px;
+    padding-bottom:45px;
       }
       
   }
