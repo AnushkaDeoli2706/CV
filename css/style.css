@@ -56,11 +56,9 @@ color:#11999E;
   left:300px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width:500px) {
   .bottom-cloud{
-    position: absolute;
-    bottom:300px;
-    left:100px;
+    background-color: blue;
   }
 
 }
