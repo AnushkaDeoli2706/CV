@@ -50,15 +50,21 @@ color:#11999E;
   top:50px;
 }
 
-.desktop-bottom-cloud{
+.bottom-cloud{
   position: absolute;
   bottom:300px;
   left:300px;
 }
 
-.mobile-bottom-cloud{
-  display:none;
+@media only screen and (max-width: 600px) {
+  .bottom-cloud{
+    position: absolute;
+    bottom:300px;
+    left:100px;
+  }
+
 }
+
 .bottom-container{
 
 }
@@ -95,12 +101,3 @@ button{
 
 
 /***Style sheet for mobile***/
-@media only screen and (max-width: 600px) {
-  .mobile-bottom-cloud{
-  
-  }
-
-  .desktop-bottom-cloud{
-    display:none;
-  }
-}
