@@ -247,6 +247,10 @@ button{
  border-style:ridge;
  padding:5px;
   }
+  .bottom-container{
+    position: relative;
+    top:100px;
+  }
   @media(max-width:500px){
     .bottom-container{
       width: 800px;
