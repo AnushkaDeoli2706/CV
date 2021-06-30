@@ -258,6 +258,7 @@ button{
 
   .contact-me{
     margin-right:390px;
+    position:relative;
     top:10px;
   }
   @media(max-width:500px){
