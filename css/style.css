@@ -95,15 +95,8 @@ button{
 
 
 /***Style sheet for mobile***/
-@media only screen and (max-width:750px){
-
-    .mobile-bottom-cloud{
-     background-color:blue;
-     width:1000px;
-     }
-
-     .desktop-bottom-cloud{
-       display:none;
-     }
-
+@media only screen and (max-width: 600px) {
+  body {
+    background-color:blue;
+  }
 }
