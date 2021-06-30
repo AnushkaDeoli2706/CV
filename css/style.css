@@ -56,18 +56,22 @@ color:#11999E;
   left:300px;
 }
 
+
+.bottom-container{
+background-color:#66BFBF;
+position:relative;
+top:30px;
+}
+
 @media only screen and (max-width:500px) {
-  body{
-    background-color: blue;
+  .bottom-container{
+  background-color:blue;
+  position:relative;
+  top:30px;
   }
 }
 
-.bottom-container{
 
-}
-.middle-container{
-
-}
 .spring-image{
   padding-top:20px;
   float:left;
