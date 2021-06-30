@@ -249,7 +249,7 @@ button{
   }
   .bottom-container{
     position: relative;
-    top:100px;
+    padding-bottom: 100px;
   }
   @media(max-width:500px){
     .bottom-container{
