@@ -63,7 +63,13 @@ color:#11999E;
   bottom:300px;
   left:300px;
 }
-
+@media (max-width:500px) {
+  .bottom-cloud{
+    position: absolute;
+    bottom:300px;
+    left:50px;
+  }
+}
 
 .bottom-tag{
    position:relative;
